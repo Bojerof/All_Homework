@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         /*Задание номер 1*/
 //        CheckLogin.check();
-        /*Задание 2*/
+        /*Задание номер 2*/
         Functional.run();
     }
 }

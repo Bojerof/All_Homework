@@ -21,9 +21,7 @@ public class Functional {
             }
             else break;
         }
-        for (var item : orders) {
-            System.out.println(item);
-        }
+        orders.forEach(System.out::println);
     }
 
     private static Order make() {
